@@ -1,0 +1,15 @@
+.page1{
+  height: 200vh;
+  width: full;
+  background-color: gray;
+}
+.page2{
+  height:100vh;
+  width: full;
+  background-color: lightblue;
+}
+.page3{
+  height: 200vh;
+  width: full;
+  background-color: brown;
+}
